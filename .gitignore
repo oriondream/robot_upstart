@@ -1,2 +1,7 @@
 *.swp
 *.py[oc]
+/build/
+.project
+.pydevproject
+Makefile
+gtest
